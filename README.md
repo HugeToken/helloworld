@@ -13,7 +13,8 @@
 
 # 수상 현황
 
-[발표ppt](/ppt.pptx)
+[대회홈페이지](https://google.co.kr/)<br>
+[발표ppt](/ppt.pptx)<br>
 
 발표동영상
 
