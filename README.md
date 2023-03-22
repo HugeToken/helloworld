@@ -21,3 +21,4 @@
 발표동영상<br>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hwEpSNanGgs" title="한국이 잠재적 핵무기 보유국인 이유 (스위치만 누르면 완성?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # 취미
+취미는 게임하기입니다.
